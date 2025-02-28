@@ -1,6 +1,6 @@
 # Perceptron Learning Algorithm: Implementation & Analysis
 
-This project explores the Perceptron Learning Algorithm (PLA) for binary classification, applied to the Banknote Authentication Dataset. The Perceptron is a fundamental supervised learning algorithm that updates its weights iteratively to find a linear decision boundary.
+This project explores the Perceptron Learning Algorithm (PLA) for binary classification, applied to the Banknote Authentication Dataset. Implemented from scratch without using external machine learning libraries like sklearn, ensuring a deeper understanding of its working principles.
 
 Key Components:
 * Data preprocessing – Formatting class labels, handling feature scaling, and ensuring dataset integrity
